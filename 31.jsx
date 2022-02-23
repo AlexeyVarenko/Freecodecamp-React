@@ -24,7 +24,7 @@ class MyApp extends React.Component {
          <div>
           { /* Change code below this line */ }
           <GetInput input={this.state.inputValue} handleChange={this.handleChange} />
-  <RenderInput input={this.state.inputValue} />
+          <RenderInput input={this.state.inputValue} />
   
           { /* Change code above this line */ }
          </div>
