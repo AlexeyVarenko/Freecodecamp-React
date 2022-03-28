@@ -12,7 +12,7 @@ class MyComponent extends React.Component {
     }
     componentWillMount() {
       // Change code below this line
-      <div> console.log (Я ХЕР СДАМСЯ) </div>
+      console.log ("Я ХЕР СДАМСЯ")
       // Change code above this line
     }
     render() {
